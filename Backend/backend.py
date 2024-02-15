@@ -15,5 +15,4 @@ def callback(packet):  # packet type: sacn.DataPacket
             print('red:', parse[0], ' green: ', parse[1], ' blue: ', parse[2], ' white: ', parse[3])
 
 
-
 receiver.join_multicast(1)
