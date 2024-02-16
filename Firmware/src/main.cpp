@@ -8,7 +8,7 @@
 #include "painlessMesh.h"
 
 #define   MESH_PREFIX     "ltngNetwork"
-#define   MESH_PASSWORD   "abc1234"
+#define   MESH_PASSWORD   "abc12349"
 #define   MESH_PORT       5555
 
 Scheduler userScheduler; // to control your personal task
